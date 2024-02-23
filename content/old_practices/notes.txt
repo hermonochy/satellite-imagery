@@ -1,0 +1,11 @@
+Combined notes from
+- https://rhozetaai.github.io/satellite-art/lab/index.html
+- https://github.com/chiinita/python-for-environmental-education-jan2024
+- https://matplotlib.org/stable/tutorials/images.html
+
+Screenshot images from: https://landsatlook.usgs.gov/
+(https://apps.sentinel-hub.com/ is an easier to use source)
+
+Problems
+- .tif files too large to open in JupyterLite, I can't work out how to download some new ones to test, and I cannot get any of the code given in the workshop resources to work with .jpg/.png files
+- I don't know enough Python/Numpy/MatPlotLib to troubleshoot/what to Google
