@@ -1,29 +1,11 @@
-# JupyterLite Demo
+# satellite-imagery
+JupyterLite notebooks for satellite imagery workshops.
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+Visit here for the instructions: <https://scienceoxford.github.io/satellite-imagery/lab/index.html>
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+*Developed by [ScienceOxford](https://scienceoxford.com) for educational purposes. Please give credit where applicable.
+<br>We love seeing what you've created, so tag us when you share! [@ScienceOxford](https://twitter.com/scienceoxford)*
 
-## ✨ Try it in your browser ✨
+Based on resources by [RhoZeta AI](https://www.rhozeta.io/python-env-edu) with funding from Python Software Foundation.
 
-➡️ **https://jupyterlite.github.io/demo**
-
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
-
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
