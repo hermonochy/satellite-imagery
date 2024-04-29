@@ -25,8 +25,9 @@ def convert(image):
     # convert into a numpy array containing all the pixels except the top 25 rows to cut off the header, and show its data type and shape
     np_img = np.asarray(original)
     np_img = np.delete(np_img, slice(0, 25), axis=0)
+    np_img = np.delete(np_img, slice(-25, -1), axis=0)
     print("array: ", np_img.dtype, np_img.shape)
-    # the data type should be uint8, the size should be 25 pixels smaller than the original in one dimension
+    # the data type should be uint8, the size should be 50 pixels smaller than the original in one dimension
         
     # convert into a luminosity plot by taking just the green values [1] and return as the function's output
     # the colour is determined by the brightness/depth of the pixel, ignoring whether it is red, green or blue
